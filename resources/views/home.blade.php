@@ -27,7 +27,7 @@
             </x-slot>
             contenido de la alerta
         </x-alert2>
-        <p>hola mundo</p>
+        <p>hola</p>
         
         <a href="{{route('posts.index')}}" style="display: block; text-align: center; margin-top: 20px;">
             Ver los posts
